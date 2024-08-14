@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489556255818",
+    "project_id": "hop-app-v1-2024",
+    "storage_bucket": "hop-app-v1-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489556255818:android:60595442deb721d439f2b3",
+        "android_client_info": {
+          "package_name": "com.example.hop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQakjEP-c5hhC-Q51Lho-OH0CZtPmFVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

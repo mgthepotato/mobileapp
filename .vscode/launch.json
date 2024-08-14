@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "seniorproject",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/src/main/base.dart"
+        },
+        {
+            "name": "seniorproject (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "seniorproject (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
